@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI & Machine Learning Engineer</h3>
 
 
-<img src="https://github.com/user-attachments/assets/70bb5a2d-d1fb-4a85-a3bc-1e6c69f059d1" min-width="300px" max-width="300px" width="350px" align="right"> 
+<img src="assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 
 
