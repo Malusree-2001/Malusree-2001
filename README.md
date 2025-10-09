@@ -1,11 +1,54 @@
-- 👋 Hi, I’m @Malusree-2001
-- 👀 I’m interested in Creative ai
-- 🌱 I’m currently learning AI and ML
-- 📫 How to reach me anaghapradeep404@gmail.com
-- 😄 Pronouns: she / her
-- ⚡ Fun fact: I like to sketch
-- 🤓 Portfolio: https://malusree-2001.github.io/anagha-p.github.io/
-<!---
-Malusree-2001/Malusree-2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hey 👋, Anagha Pradeep here!!</h1>
+<h3 align="center">A passionate AI & Machine Learning Engineer</h3>
+
+
+<img src="https://github.com/user-attachments/assets/70bb5a2d-d1fb-4a85-a3bc-1e6c69f059d1" min-width="300px" max-width="300px" width="350px" align="right"> 
+
+
+
+
+![profile views](https://komarev.com/ghpvc/?username=Malusree-2001&style=flat-square)
+
+<p align="left"> <a href="https://x.com/Lilac_code_" target="blank"><img src="https://img.shields.io/twitter/follow/Lilac_code_?logo=twitter&style=for-the-badge" alt="Lilac_code_" /></a> </p>
+
+- 🔭 I’m currently working on **Deep Learning models** and exploring **innovative AI solutions**.
+
+- 🌱 I’m currently learning **Advanced ML techniques, MLOps, Geospatial and Python**.
+
+- 💬 Ask me about **#Python, #MachineLearning, #DeepLearning, #AI, #DataScience, and #Geospatial.**.
+
+- 📫 How to reach me **anaghapradeep1510@gmail.com**.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/Lilac_code_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Anagha_pradeep" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anagha-pradeep15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anagha_pradeep" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,r,cpp,java,cs,pytorch,tensorflow,scikitlearn,opencv,pandas,numpy,matplotlib,seaborn,spark,docker,github,jira,linux,vscode,jupyter,mysql&perline=7" />
+</a>
+</p>
+
+<div align="center">
+<!--     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malusree-2001&theme=dark" />
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Malusree-2001&theme=dark" />
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malusree-2001&theme=dark" />
+    <img height="155em" src="https://streak-stats.demolab.com?user=Malusree-2001&theme=dark" /> -->
+    
+
+    
+  [![](https://raw.githubusercontent.com/Malusree-2001/Malusree-2001/master/assets/dark/0-profile-details.svg)](https://github.com/Malusree-2001/Malusree-2001)
+  [![](https://raw.githubusercontent.com/Malusree-2001/Malusree-2001/master/assets/dark/1-repos-per-language.svg)](https://github.com/Malusree-2001/Malusree-2001) [![](https://raw.githubusercontent.com/Malusree-2001/Malusree-2001/master/assets/dark/2-most-commit-language.svg)](https://github.com/Malusree-2001/Malusree-2001)
+  [![](https://raw.githubusercontent.com/Malusree-2001/Malusree-2001/master/assets/dark/3-stats.svg)](https://github.com/Malusree-2001/Malusree-2001) [![](https://raw.githubusercontent.com/Malusree-2001/Malusree-2001/master/assets/dark/4-productive-time.svg)](https://github.com/Malusree-2001/Malusree-2001)
+
+  <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=Malusree-2001&show_icons=true&locale=en&layout=compact&theme=dark" alt="Malusree-2001" />
+    <img   src="https://github-readme-stats.vercel.app/api?username=Malusree-2001&show_icons=true&locale=en&theme=dark" alt="Malusree-2001" />
+        <img src="https://streak-stats.demolab.com?user=Malusree-2001&theme=dark" /> 
+
+</div>
+
+
