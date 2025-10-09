@@ -39,9 +39,8 @@
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malusree-2001&theme=dark" />
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malusree-2001&theme=dark" />
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Malusree-2001&show_icons=true&locale=en&layout=compact&theme=dark" alt="Malusree-2001" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Malusree-2001&show_icons=true&locale=en&theme=dark" alt="Malusree-2001" />
-    
-    <img src="https://streak-stats.demolab.com?user=Malusree-2001&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Malusree-2001&show_icons=true&locale=en&layout=compact&theme=dark" alt="Malusree-2001 Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Malusree-2001&show_icons=true&locale=en&theme=dark" alt="Malusree-2001 GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=Malusree-2001&theme=dark" alt="Malusree-2001 GitHub Streak" />
 </div>
 
