@@ -34,21 +34,14 @@
 </p>
 
 <div align="center">
-<!--     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malusree-2001&theme=dark" />
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malusree-2001&theme=dark" />
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Malusree-2001&theme=dark" />
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malusree-2001&theme=dark" />
-    <img height="155em" src="https://streak-stats.demolab.com?user=Malusree-2001&theme=dark" /> -->
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malusree-2001&theme=dark" />
+
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Malusree-2001&show_icons=true&locale=en&layout=compact&theme=dark" alt="Malusree-2001" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Malusree-2001&show_icons=true&locale=en&theme=dark" alt="Malusree-2001" />
     
-
-    
-  [![](https://raw.githubusercontent.com/Malusree-2001/Malusree-2001/master/assets/dark/0-profile-details.svg)](https://github.com/Malusree-2001/Malusree-2001)
-  [![](https://raw.githubusercontent.com/Malusree-2001/Malusree-2001/master/assets/dark/1-repos-per-language.svg)](https://github.com/Malusree-2001/Malusree-2001) [![](https://raw.githubusercontent.com/Malusree-2001/Malusree-2001/master/assets/dark/2-most-commit-language.svg)](https://github.com/Malusree-2001/Malusree-2001)
-  [![](https://raw.githubusercontent.com/Malusree-2001/Malusree-2001/master/assets/dark/3-stats.svg)](https://github.com/Malusree-2001/Malusree-2001) [![](https://raw.githubusercontent.com/Malusree-2001/Malusree-2001/master/assets/dark/4-productive-time.svg)](https://github.com/Malusree-2001/Malusree-2001)
-
-  <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=Malusree-2001&show_icons=true&locale=en&layout=compact&theme=dark" alt="Malusree-2001" />
-    <img   src="https://github-readme-stats.vercel.app/api?username=Malusree-2001&show_icons=true&locale=en&theme=dark" alt="Malusree-2001" />
-        <img src="https://streak-stats.demolab.com?user=Malusree-2001&theme=dark" /> 
-
+    <img src="https://streak-stats.demolab.com?user=Malusree-2001&theme=dark" />
 </div>
-
 
