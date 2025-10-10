@@ -27,10 +27,27 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
+<h3 align="center">Languages and Tools:</h3>
+
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,r,cpp,java,cs,pytorch,tensorflow,scikitlearn,opencv,pandas,numpy,matplotlib,seaborn,spark,docker,github,jira,linux,vscode,jupyter,mysql&perline=21"/>
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,cpp,java,cs&perline=5"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&perline=4"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,spark&perline=5"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,github,jira,linux,vscode,jupyter,mysql&perline=7"/>
+  </a>
 </p>
 
 <div align="center">
