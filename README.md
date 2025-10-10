@@ -29,7 +29,7 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,r,cpp,java,cs,pytorch,tensorflow,scikitlearn,opencv,pandas,numpy,matplotlib,seaborn,spark,docker,github,jira,linux,vscode,jupyter,mysql&perline=7" />
+<img src="https://skillicons.dev/icons?i=py,r,cpp,java,cs,pytorch,tensorflow,scikitlearn,opencv,pandas,numpy,matplotlib,seaborn,spark,docker,github,jira,linux,vscode,jupyter,mysql&perline=6"/>
 </a>
 </p>
 
