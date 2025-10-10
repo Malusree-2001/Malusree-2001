@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI & Machine Learning Engineer</h3>
 
 
-<img src="https://github.com/user-attachments/assets/70bb5a2d-d1fb-4a85-a3bc-1e6c69f059d1" min-width="300px" max-width="300px" width="350px" align="right"> 
+<img src="assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 
 
@@ -28,27 +28,29 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,r,cpp,java,cs,pytorch,tensorflow,scikitlearn,opencv,pandas,numpy,matplotlib,seaborn,spark,docker,github,jira,linux,vscode,jupyter,mysql&perline=7" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,cpp,java,cs&perline=5"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&perline=4"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,github,linux,vscode,mysql&perline=5"/>
+  </a>
 </p>
 
 <div align="center">
-<!--     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malusree-2001&theme=dark" />
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malusree-2001&theme=dark" />
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Malusree-2001&theme=dark" />
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malusree-2001&theme=dark" />
-    <img height="155em" src="https://streak-stats.demolab.com?user=Malusree-2001&theme=dark" /> -->
-    
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malusree-2001&theme=dark" />
 
-    
-  [![](https://raw.githubusercontent.com/Malusree-2001/Malusree-2001/master/assets/dark/0-profile-details.svg)](https://github.com/Malusree-2001/Malusree-2001)
-  [![](https://raw.githubusercontent.com/Malusree-2001/Malusree-2001/master/assets/dark/1-repos-per-language.svg)](https://github.com/Malusree-2001/Malusree-2001) [![](https://raw.githubusercontent.com/Malusree-2001/Malusree-2001/master/assets/dark/2-most-commit-language.svg)](https://github.com/Malusree-2001/Malusree-2001)
-  [![](https://raw.githubusercontent.com/Malusree-2001/Malusree-2001/master/assets/dark/3-stats.svg)](https://github.com/Malusree-2001/Malusree-2001) [![](https://raw.githubusercontent.com/Malusree-2001/Malusree-2001/master/assets/dark/4-productive-time.svg)](https://github.com/Malusree-2001/Malusree-2001)
-
-  <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=Malusree-2001&show_icons=true&locale=en&layout=compact&theme=dark" alt="Malusree-2001" />
-    <img   src="https://github-readme-stats.vercel.app/api?username=Malusree-2001&show_icons=true&locale=en&theme=dark" alt="Malusree-2001" />
-        <img src="https://streak-stats.demolab.com?user=Malusree-2001&theme=dark" /> 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Malusree-2001&show_icons=true&locale=en&layout=compact&theme=dark" alt="Malusree-2001 Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Malusree-2001&show_icons=true&locale=en&theme=dark" alt="Malusree-2001 GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=Malusree-2001&theme=dark" alt="Malusree-2001 GitHub Streak" />
 </div>
-
 
