@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI & Machine Learning Engineer</h3>
 
 
-<img src="assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<img src="assets/Adobe Express - file.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 
 
