@@ -1,56 +1,136 @@
-<h1 align="center">Hey 👋, Anagha Pradeep here!!</h1>
-<h3 align="center">A passionate AI & Machine Learning Engineer</h3>
 
+<h1 align="center">Hi 👋, I'm Anagha Pradeep</h1>
 
-<img src="assets/Adobe Express - file.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<h3 align="center">
+  AI/ML Engineer | Geospatial AI Researcher | Computer Vision
+</h3>
 
+<p align="center">
+  Building intelligent solutions using Machine Learning,
+  Deep Learning, Remote Sensing, and Geospatial AI.
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Malusree-2001&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
+<img src="assets/Adobe Express - file.png" width="300px" align="right"/>
 
-![profile views](https://komarev.com/ghpvc/?username=Malusree-2001&style=flat-square)
+## 👩‍💻 About Me
 
-<p align="left"> <a href="https://x.com/Lilac_code_" target="blank"><img src="https://img.shields.io/twitter/follow/Lilac_code_?logo=twitter&style=for-the-badge" alt="Lilac_code_" /></a> </p>
+- 🎓 M.S. in Computer Science at Indiana University Indianapolis
+- 🔬 Graduate Research Assistant working on Geospatial Machine Learning
+- 🌱 Exploring Deep Learning, Computer Vision, Remote Sensing, and MLOps
+- 🛰️ Working with Sentinel-1, Sentinel-2, and geospatial datasets
+- 🤖 Interested in AI for Agriculture, Environmental Monitoring, and Earth Observation
+- 💻 Experienced with Machine Learning, Python, HPC, and SLURM
+- 📫 Reach me at **anaghapradeep1510@gmail.com**
 
-- 🔭 I’m currently working on **Deep Learning models** and exploring **innovative AI solutions**.
+## 🔬 Research & Projects
 
-- 🌱 I’m currently learning **Advanced ML techniques, MLOps, Geospatial and Python**.
+### 🌊 Surface-Water Evaluation
+- Developing Random Forest models for surface-water classification.
+- Working with Sentinel-1 SAR and Sentinel-2 optical imagery.
+- Evaluating spatial generalization using spatial cross-validation.
+- Investigating multimodal approaches for cloud-gap filling.
+- Using HPC and SLURM for research workflows.
 
-- 💬 Ask me about **#Python, #MachineLearning, #DeepLearning, #AI, #DataScience, and #Geospatial.**.
+### 🌾 Agricultural AI & Crop Analytics
+- Developed machine learning models for crop growth-stage prediction.
+- Worked with environmental, weather, and agricultural datasets.
+- Explored hybrid ML and crop simulation approaches.
+- Applied predictive modeling to agricultural decision support.
 
-- 📫 How to reach me **anaghapradeep1510@gmail.com**.
+### 🛰️ Geospatial Machine Learning
+- Processing and analyzing satellite imagery.
+- Working with spectral indices such as NDWI, MNDWI, and NDVI.
+- Exploring spatial modeling, remote sensing, and environmental AI.
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,r,cpp,c,java,cs,js&perline=7"/>
+</p>
+
+Additional: Perl, SQL
+
+### Machine Learning & Deep Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&perline=4"/>
+</p>
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Random Forest
+- Gradient Boosting
+- Geospatial AI
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,django&perline=2"/>
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,github,git,linux,vscode,mysql&perline=6"/>
+</p>
+
+- High-Performance Computing (HPC)
+- SLURM Workload Manager
+- Git & GitHub
+- Geospatial Data Processing
+
+### Remote Sensing & Geospatial Technologies
+
+- Sentinel-1 SAR
+- Sentinel-2 Multispectral Imagery
+- NDWI, MNDWI, NDVI
+- Spatial Cross-Validation
+- Satellite Image Classification
+- Raster Data Processing
+
+## 🤝 Connect With Me
+
 <p align="left">
-<a href="https://x.com/Lilac_code_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Anagha_pradeep" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anagha-pradeep15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anagha_pradeep" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/anagha-pradeep15/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://x.com/Lilac_code_">
+    <img src="https://cdn.simpleicons.org/x/888888" height="40"/>
+  </a>
+  <a href="mailto:anaghapradeep1510@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,cpp,java,cs&perline=5"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&perline=4"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,github,linux,vscode,mysql&perline=5"/>
-  </a>
-</p>
+## 📊 GitHub Statistics
 
 <div align="center">
-    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malusree-2001&theme=dark" />
-    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Malusree-2001&theme=dark" />
-    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malusree-2001&theme=dark" />
-    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malusree-2001&theme=dark" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Malusree-2001&show_icons=true&locale=en&layout=compact&theme=dark" alt="Malusree-2001 Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=Malusree-2001&show_icons=true&locale=en&theme=dark" alt="Malusree-2001 GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=Malusree-2001&theme=dark" alt="Malusree-2001 GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malusree-2001&theme=github_dark" alt="Profile Details"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Malusree-2001&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malusree-2001&layout=compact&theme=github_dark" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Malusree-2001&theme=github-dark-blue" alt="GitHub Streak"/>
+
 </div>
 
+## 🎯 Current Focus
+
+- 🌍 Geospatial AI for environmental monitoring
+- 🧠 Deep Learning architectures for satellite imagery
+- 🛰️ Multimodal Sentinel-1 and Sentinel-2 analysis
+- ⚙️ Scalable ML workflows and HPC
+- 🌱 AI applications in agriculture and climate research
+
+<p align="center">
+  <i>Turning data into meaningful, real-world intelligence.</i>
+</p>
