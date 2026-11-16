@@ -109,19 +109,32 @@ Additional: Perl, SQL
   </a>
 </p>
 
-## 📊 GitHub Statistics
+
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malusree-2001&theme=github_dark" alt="Profile Details"/>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Malusree-2001&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+    height="170"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Malusree-2001&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Malusree-2001&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    height="170"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malusree-2001&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <br/>
 
-<img src="https://streak-stats.demolab.com?user=Malusree-2001&theme=github-dark-blue" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Malusree-2001&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 
 </div>
+
 
 ## 🎯 Current Focus
 
