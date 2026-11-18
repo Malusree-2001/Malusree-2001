@@ -7,7 +7,7 @@
 
 <p align="center">
   Building intelligent solutions using Machine Learning,
-  Deep Learning, Remote Sensing, and Geospatial AI.
+  Deep Learning, Remote Sensing, and Geospatial AI
 </p>
 
 <p align="center">
