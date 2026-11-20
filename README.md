@@ -127,7 +127,6 @@ Additional: Perl, SQL
   />
 
   <br/>
-
   <img
   src="https://streak-stats.demolab.com?user=Malusree-2001&theme=tokyonight&v=2"
   alt="GitHub Streak"
